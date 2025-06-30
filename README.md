@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/AI/ML-%23F7931E.svg?style=for-the-badge&logo=google-analytics&logoColor=white" alt="AI/ML"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Databricks%20GenAI%20Associate-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks GenAI Associate"/>
+  <img src="https://img.shields.io/badge/Databricks%20Generative%AI%20Associate-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Generative AI Associate"/>
   <img src="https://img.shields.io/badge/Databricks%20Data%20Analyst%20Associate-blueviolet?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Data Analyst Associate"/>
 </p>
 
@@ -26,7 +26,7 @@ I’m passionate about **AI/ML**, **exploratory data analytics**, and **product 
   - **Marketing Mix Model**: Driving data-driven marketing strategies  
   - **Insights Generator using LLM & Text-to-SQL**: Bridging unstructured and structured data for smarter decisions
 - 🏆 **Certifications:**  
-  - Databricks GenAI Associate  
+  - Databricks Generative AI Associate  
   - Databricks Data Analyst Associate
 
 I love exploring the intersection of data and business, and I’m always up for a challenge that stretches my analytical and creative muscles!
