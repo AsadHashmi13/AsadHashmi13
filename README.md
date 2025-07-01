@@ -35,7 +35,7 @@ I love exploring the intersection of data and business, and I’m always up for 
 
 ## 🌟 Fun Facts
 
-- 🏏 I’m a big fan of **cricket** and enjoy a good game of **chess** both keep my mind and body sharp!
+- 🏏 I’m a big fan of **cricket** and enjoy a good game of **chess**, both keep my mind and body sharp!
 - 🧠 My motto: _“Create impact and value with data.”_
 
 ---
