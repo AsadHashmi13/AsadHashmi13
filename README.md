@@ -19,7 +19,7 @@
 ## 🙋‍♂️ About Me
 
 Hi there! I’m **Asad Hashmi**, a Senior Data Scientist at **Artefact** with previous experience at **IBM**.  
-I’m passionate about **AI/ML**, **exploratory data analytics**, and **product analytics**—and I thrive on turning data into actionable insights and innovative solutions.
+I’m passionate about **AI/ML**, **exploratory data analytics**, and **product analytics** and I thrive on turning data into actionable insights and innovative solutions.
 
 - 💡 **Top Skills:** Python, AI, Data Manipulation (SQL, Pandas)
 - 🚀 **Favorite Projects:**  
@@ -35,8 +35,8 @@ I love exploring the intersection of data and business, and I’m always up for 
 
 ## 🌟 Fun Facts
 
-- 🏏 I’m a big fan of **cricket** and enjoy a good game of **chess**—both keep my mind and body sharp!
-- 🧠 My motto: _“Turn data into direction.”_
+- 🏏 I’m a big fan of **cricket** and enjoy a good game of **chess** both keep my mind and body sharp!
+- 🧠 My motto: _“Create impact and value with data.”_
 
 ---
 
