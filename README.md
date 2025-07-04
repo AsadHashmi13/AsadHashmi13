@@ -21,12 +21,12 @@
 Hi there! I’m **Asad Hashmi**, a Senior Data Scientist at **Artefact** with previous experience at **IBM**.  
 I’m passionate about **AI/ML**, **exploratory data analytics**, and **product analytics** and I thrive on turning data into actionable insights and innovative solutions.
 
-- 💡 **Top Skills:** Python, Artificial Intelligence Engineering, Machine Learning, Data Manipulation (SQL, Pandas), 
+- 💡 **Top Skills:** Python, Artificial Intelligence Engineering, Machine Learning, Data Manipulation (SQL, Pandas), A/B Testing 
 - 🚀 **Favorite Projects:**  
   - **Marketing Mix Model**: Driving marketing ROI and strategy through data and cross-channel impact 
   - **Insights Generator using LLM & Text-to-SQL**: Natural language chat-bot that talks to data and present business insights from structured data for smarter decisions
     
-- 🏆 **Certifications:**  
+- 🏆 **Certifications & Accolades:**  
   - Databricks Generative AI Engineer Associate  
   - Databricks Data Analyst Associate
   - Azure Fundamentals (AZ900), Microsoft
@@ -34,7 +34,6 @@ I’m passionate about **AI/ML**, **exploratory data analytics**, and **product 
   - Enterprise Design Thinking Practitioner, IBM
   - Winner of IBM MEA Galaxy 2020
   - IBM Manager’s Choice Awards – 2018 & 2020
-  - Research Disclosures – 2 publications.
 
 I love exploring the intersection of data and business, and I’m always up for a challenge that stretches my analytical and creative muscles!
 
